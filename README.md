@@ -1,6 +1,6 @@
 # Sample app
 
-	This app can be found at https://pacific-caverns-57884.herokuapp.com/
+This app can be found at https://pacific-caverns-57884.herokuapp.com/
 
 # Ruby on Rails Tutorial sample application
 
